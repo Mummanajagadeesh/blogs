@@ -22,7 +22,7 @@ ORIGO RESOURCES
 
 ## Topics Covered
 
-- [AI](ai/)
+- [AI](/ai/)
 - [Arduino](arduino/)
 - [Basic Electronics](basic-electronics/)
 - [CAD](cad/)
