@@ -12,24 +12,5 @@ tags:
   - origo
   - handout
 draft: false
+redirect: "https://mummanajagadeesh.github.io/ORIGO2K25/"
 ---
-
-<!-- Summary -->
-
-ORIGO RESOURCES
-
-<!--more-->
-
-## Topics Covered
-
-- [AI](/ai/)
-- [Arduino](arduino/)
-- [Basic Electronics](basic-electronics/)
-- [CAD](cad/)
-- [Code Explanation Day 1](code-explanation-day-1/)
-- [Code Explanation Day 2](code-explanation-day-2/)
-- [Controllers](controllers/)
-- [Networking](networking/)
-- [PCB](pcb/)
-- [Python](python/)
-- [Wheels](wheels/)
