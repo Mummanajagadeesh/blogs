@@ -17,3 +17,5 @@ redirect: "https://mummanajagadeesh.github.io/ORIGO2K25/"
 <head>
   <meta http-equiv="refresh" content="0;url=https://mummanajagadeesh.github.io/ORIGO2K25/">
 </head>
+
+[Click here](https://mummanajagadeesh.github.io/ORIGO2K25/)
