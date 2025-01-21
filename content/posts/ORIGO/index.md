@@ -12,10 +12,12 @@ tags:
   - origo
   - handout
 draft: false
-redirect: "https://mummanajagadeesh.github.io/ORIGO2K25/"
 ---
-<head>
-  <meta http-equiv="refresh" content="0;url=https://mummanajagadeesh.github.io/ORIGO2K25/">
-</head>
 
-[Click here](https://mummanajagadeesh.github.io/ORIGO2K25/)
+<!-- Main Post Content -->
+
+## Welcome to ORIGO
+
+Click the folder icon below to visit the destination:
+
+[![Folder Icon](https://img.icons8.com/?size=100&id=97608&format=png&color=000000)](https://mummanajagadeesh.github.io/ORIGO2K25/)
